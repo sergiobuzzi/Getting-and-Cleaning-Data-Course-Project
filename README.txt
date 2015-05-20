@@ -1,0 +1,1 @@
+The assignment was done in a single scrip. The details can be fonud in the R code.
